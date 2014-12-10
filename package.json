@@ -1,0 +1,32 @@
+{
+  "name": "cuecloud",
+  "version": "1.0.0",
+  "description": "CueCloud API wrapper",
+  "main": "lib/cuecloud.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuecloud/cuecloud-node"
+  },
+  "keywords": [
+    "cuecloud"
+  ],
+  "author": "Miguel Molina <mmolina@gmail.com>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/cuecloud/cuecloud-node/issues"
+  },
+  "homepage": "https://github.com/cuecloud/cuecloud-node",
+  "dependencies": {
+    "bluebird": "~2.3.6",
+    "request": "~2.45.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.0",
+    "chai": "~1.8.0",
+    "chai-as-promised": "~4.0.0",
+    "restify": "~2.8.3"
+  }
+}
