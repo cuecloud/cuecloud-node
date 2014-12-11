@@ -1,4 +1,5 @@
-# CueCloud node.js API Client Library #
+# CueCloud node.js API Client Library [![Build Status](https://travis-ci.org/cuecloud/cuecloud-node.png?branch=master)](https://travis-ci.org/cuecloud/cuecloud-node)
+
 NPM package to interact with the CueCloud API.
 
 ## Geting started
